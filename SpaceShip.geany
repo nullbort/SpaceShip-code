@@ -20,15 +20,15 @@ indent_mode=2
 [project]
 name=SpaceShip
 base_path=/home/nullbort/Arduino/SpaceShip
+description=
 
 [long line marker]
 long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=1
-FILE_NAME_0=458;Arduino;0;EUTF-8;0;1;0;%2Fhome%2Fnullbort%2FArduino%2FSpaceShip%2FSpaceShip.ino;0;2
-FILE_NAME_1=48;None;0;EUTF-8;1;1;0;%2Fhome%2Fnullbort%2FKiCad%2FSpaceShip%2F.gitignore;0;4
+current_page=0
+FILE_NAME_0=86;Arduino;0;EUTF-8;0;1;0;%2Fhome%2Fnullbort%2FArduino%2FSpaceShip%2FSpaceShip.ino;0;2
 
 [VTE]
 last_dir=/home/nullbort/RaspberryPi/Python/EnviroBox
